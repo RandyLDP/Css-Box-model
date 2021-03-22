@@ -1,0 +1,66 @@
+body {
+  background-color: rgb(44, 44, 44);
+  color: rgb(190, 190, 40);
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+.background {
+  background-color: whitesmoke;
+}
+.box-1 {
+  padding: 0px 5px;
+}
+.box-1 p {
+  margin: 0.3em;
+  width: 85%;
+}
+.container {
+  margin: auto;
+  width: 85%;
+}
+
+a {
+  text-decoration: none;
+  color: yellow;
+}
+a:hover {
+  color: red;
+}
+
+.button {
+  background-color: rgb(214, 195, 22);
+  color: white;
+  padding: 10px 5px;
+  border: none;
+  margin-top: 20px;
+}
+.button:hover {
+  background: red;
+  color: white;
+}
+.p1 {
+  font-style: italic;
+  font-size: 18px;
+  color: rgb(14, 179, 201);
+}
+main {
+  border: rgb(214, 195, 22) solid;
+}
+.links {
+  border: 3px rgb(214, 195, 22) solid;
+}
+.links h2 {
+  text-align: center;
+}
+.links ul {
+  padding: 0;
+  list-style: none;
+}
+.links li {
+  display: inline;
+  color: white;
+  text-align: center;
+  padding: 0px 16px;
+}
+nav {
+  margin-bottom: 20px;
+}
